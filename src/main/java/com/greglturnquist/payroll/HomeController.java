@@ -19,6 +19,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
+ * See Spring instructions from the following link
+ * https://spring.io/guides/tutorials/react-and-spring-data-rest/
+ *
  * @author Greg Turnquist
  */
 // tag::code[]
